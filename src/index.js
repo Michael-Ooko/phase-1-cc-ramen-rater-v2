@@ -67,12 +67,3 @@ function main() {
 // Invoke main function after DOM is loaded
 document.addEventListener('DOMContentLoaded', main);
 
-// main()
-
-// // Export functions for testing
-// export {
-//   displayRamens,
-//   addSubmitListener,
-//   handleClick,
-//   main,
-// };
